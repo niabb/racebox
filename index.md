@@ -2,11 +2,11 @@ Racebox est un système informatique d'aide à l'organisation des courses de can
 
 # Informations générales
 - [Pourquoi Racebox ?](informations/pourquoi)
-- Fonctionnalités
-- Questions fréquentes
-- Suivi des versions
+- [Fonctionnalités](informations/fonctionnalites)
+- [Questions fréquentes](informations/faq)
+- [Suivi des versions](informations/changelog)
 
 # Aide à l'utilisation
-- Mise en route et extinction
-- Branchements
-- Utilisation de l'interface
+- [Branchements](utilisation/branchements)
+- [Mise en route et extinction](utilisation/mise-en-route)
+- [Utilisation de l'interface](utilisation/interface)
