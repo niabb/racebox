@@ -10,3 +10,4 @@ Racebox est un système informatique **d'aide à l'organisation des courses de c
 - [Branchements](utilisation/branchements)
 - [Mise en route et extinction](utilisation/mise-en-route)
 - [Utilisation de l'interface](utilisation/interface)
+- [Mise à jour](utilisation/mise-a-jour)
