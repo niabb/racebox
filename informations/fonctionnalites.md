@@ -12,3 +12,13 @@ Racebox est un serveur Linux pré-configuré qui prend en charge les aspects de 
 De nombreuses améliorations et fonctionnalités sont prévues, dans l'ordre des priorités :
 * Résultats en ligne (à venir très prochainement)
 * ...
+
+### Spécifications techniques
+La Racebox se base sur une carte Raspberry Pi 3, équipée d'un système d'alimentation avec batterie.
+- Processeur quad-core 1,2 GHz
+- Mémoire vive 1Go
+- Port ethernet 10/100
+- Wifi 802.11n (2 interfaces)
+- Carte micro-SD 16 Go
+- Autonomie en cas de coupure de courant : environ 15 min
+- Alimentation 5V 3.0 A
