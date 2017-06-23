@@ -1,8 +1,7 @@
 ### Interface
 L'interface de la Racebox est accessible par un navigateur.
-
-Pour un terminal connecté au Wifi, il suffit d'accéder à http://192.168.20.1.
-Pour un ordinateur connecté via un switch, il faut utiliser http://192.168.25.1
+Pour un terminal connecté au Wifi, il suffit d'accéder à [http://192.168.20.1](http://192.168.20.1).
+Pour un ordinateur connecté via un switch, il faut utiliser [http://192.168.25.1](http://192.168.25.1)
 
 ![Interface](./images/interface.png)
 
