@@ -6,6 +6,7 @@ Racebox est un serveur Linux pré-configuré qui prend en charge les aspects de 
 
 **Racebox remplace donc Wamp** mais propose également des fonctionnalités supplémentaires :
 
+* Serveur FFCanoe : Tous les postes FFCanoe ont la même configuration, pas besoin de modifier le paramétrage du réseau, le serveur FFCanoe tourne sur Racebox.
 * Commmunication : serveur de VOIP qui permet une communication vocale sans fil entre différents postes (ordinateurs, smartphone ou tablette), par exemple entre le départ et l'arrivée, sous réserve d'une couverture Wifi suffisante
 
 ### Fonctionnalités à venir
