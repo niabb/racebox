@@ -12,4 +12,6 @@ Racebox est un système informatique **d'aide à l'organisation des courses de c
 - [Mise en réseau](utilisation/mise-en-reseau)
 - [Utilisation de l'interface](utilisation/interface)
 - [Installation de FFCanoe](utilisation/installation-ffcanoe)
+- [Déploiement d'un réseau Wifi](utilisation/reseau-wifi)
+- [Utilisation des TRAPS](utilisation/utilisation-traps)
 - [Mise à jour](utilisation/mise-a-jour)
