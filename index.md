@@ -6,12 +6,15 @@ Racebox est un système informatique **d'aide à l'organisation des courses de c
 - [Questions fréquentes](informations/faq)
 - [Suivi des versions](informations/changelog)
 
-# Aide à l'utilisation
+# Documentation
+## Manipulations de base
 - [Branchements](utilisation/branchements)
 - [Mise en route et extinction](utilisation/mise-en-route)
 - [Mise en réseau](utilisation/mise-en-reseau)
 - [Utilisation de l'interface](utilisation/interface)
 - [Installation de FFCanoe](utilisation/installation-ffcanoe)
+
+## Manipulations avancées
 - [Déploiement d'un réseau Wifi](utilisation/reseau-wifi)
 - [Utilisation des TRAPS](utilisation/utilisation-traps)
 - [Mise à jour](utilisation/mise-a-jour)
