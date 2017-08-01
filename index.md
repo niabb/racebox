@@ -17,4 +17,5 @@ Racebox est un système informatique **d'aide à l'organisation des courses de c
 ## Manipulations avancées
 - [Déploiement d'un réseau Wifi](utilisation/reseau-wifi)
 - [Utilisation des TRAPS](utilisation/utilisation-traps)
+- [Résultats en ligne](utilisation/resultats-en-ligne)
 - [Mise à jour](utilisation/mise-a-jour)
