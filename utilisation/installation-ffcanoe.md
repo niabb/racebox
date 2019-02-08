@@ -5,4 +5,4 @@
 - Dans le dossier ainsi créé, lancer ffcanoe.exe (vous pouvez éventuellement créer un raccourci avec un clic droit pour accéder à FFCanoe plus facilement). **FFCanoe est préconfiguré pour utiliser la base de donnée MySQL et le serveur FFcanoe de Racebox !** Tous les postes de FFCanoe doivent donc rester configurés en mode client.
 - Lors du premier lancement de FFCanoe, cliquez sur Configuration/Réseau, puis sur Valider. Cette procédure permet d'affecter un nom de client automatiquement, pour que le poste ait un nom d'identification unique sur le réseau.
 
-Et voilà !
+Et voilà ! FFCanoe peut maintenant être utilisé normalement, en définissant un des clients comme poste de chronométrage, d'autres postes également en client pour la saisie des pénalités ou l'affichage...

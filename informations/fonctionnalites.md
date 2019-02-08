@@ -11,8 +11,10 @@ Racebox est un serveur Linux pré-configuré qui prend en charge les aspects de 
 
 ### Fonctionnalités à venir
 De nombreuses améliorations et fonctionnalités sont prévues, dans l'ordre des priorités :
+* Support du système TRAPS
 * Résultats en ligne (à venir très prochainement)
 * Système de sauvegarde dans le cloud
+* Partage de fichier entre les postes
 
 ### Spécifications techniques
 La Racebox se base sur une carte Raspberry Pi 3, équipée d'un système d'alimentation avec batterie.

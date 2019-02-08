@@ -5,6 +5,7 @@ Racebox est un système informatique **d'aide à l'organisation des courses de c
 - [Fonctionnalités](informations/fonctionnalites)
 - [Formats de course](informations/formats)
 - [Questions fréquentes](informations/faq)
+- [Tarif](informations/tarif)
 - [Suivi des versions](informations/changelog)
 
 # Documentation
