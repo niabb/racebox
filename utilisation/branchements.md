@@ -1,12 +1,12 @@
 ### Présentation du boîtier et branchements
-Racebox se présente sous la forme d'un boîtier rectangulaire de 10 x 7,5 x 3,5 cm.
+Racebox se présente sous la forme d'un boîtier rectangulaire de 10 x 7,5 x 6,5 cm.
 
 ![Boîtier](images/boitier.jpg)
 
 La face avant présente :
  - un témoin d'alimentation rouge, allumé si le boîtier est alimenté
  - un témoin d'activité verte qui clignote lorsque la Racebox fonctionne
- - un capot de protection pour la carte Micro-SD de la Racebox.
+ - un capot de protection optionnel pour la carte Micro-SD de la Racebox (une fois le capot enclenché, il est nécessaire d'ouvrir la Racebox pour le retirer).
 
 ![Face avant](images/face-avant.jpg)
 
