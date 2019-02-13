@@ -15,6 +15,7 @@ De nombreuses améliorations et fonctionnalités sont prévues, dans l'ordre des
 * Résultats en ligne (à venir très prochainement)
 * Système de sauvegarde dans le cloud
 * Partage de fichier entre les postes
+* Documentation accessible directement sur la Racebox
 
 ### Spécifications techniques
 La Racebox se base sur une carte Raspberry Pi 3, équipée d'un système d'alimentation avec batterie.
