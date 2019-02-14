@@ -8,10 +8,10 @@ Racebox est un serveur Linux pré-configuré qui prend en charge les aspects de 
 
 * Serveur FFCanoe : Tous les postes FFCanoe ont la même configuration, pas besoin de modifier le paramétrage du réseau, le serveur FFCanoe tourne sur Racebox.
 * Commmunication : serveur de VOIP qui permet une communication vocale sans fil entre différents postes (ordinateurs, smartphone ou tablette), par exemple entre le départ et l'arrivée, sous réserve d'une couverture Wifi suffisante
+* Support du système TRAPS
 
 ### Fonctionnalités à venir
 De nombreuses améliorations et fonctionnalités sont prévues, dans l'ordre des priorités :
-* Support du système TRAPS
 * Résultats en ligne (à venir très prochainement)
 * Système de sauvegarde dans le cloud
 * Partage de fichier entre les postes
