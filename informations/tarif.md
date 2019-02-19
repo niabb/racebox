@@ -1,5 +1,5 @@
 ### Tarif
-**La racebox est vendue au tarif de 425€ TTC.**
+**La racebox est vendue au tarif de 500€ TTC.**
 
 Ce tarif comprend la Racebox et son adaptateur 220V, et un accès d'un an aux services Racebox (mises à jour du système, résultats en ligne, sauvegarde dans le cloud...).
 
